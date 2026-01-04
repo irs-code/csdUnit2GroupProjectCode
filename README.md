@@ -2,7 +2,7 @@
 All code requires photos that are included as of 12/17/25.
 # Final Grade: 92
 Notes for those doing this project:
-Make sure to attribute authors of photos on the page instead pf just in the alternate text. 
+Make sure to attribute authors of photos on the page instead of just in the alternate text. 
 
 ## Last updated: 12/16/25
 
